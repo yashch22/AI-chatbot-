@@ -1,0 +1,7 @@
+gradio
+pandas 
+numpy
+openai==1.2.0
+langchain==0.0.332
+tiktoken
+qdrant-client
